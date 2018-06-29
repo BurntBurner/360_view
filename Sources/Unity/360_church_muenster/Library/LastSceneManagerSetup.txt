@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Createch Interactive/Panoramic Camera Creator/Scenes/Panoramic Test
+    Scene.unity
+  isLoaded: 1
+  isActive: 1
