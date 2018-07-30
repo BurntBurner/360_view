@@ -1,0 +1,25 @@
+28.06.2018
+
+ich suche generell und für ein Projekt konkret Kontakt zu einem Unity Entwickler.
+Es geht um die Umsetzung eines Elearning tools mit 360 Grad Medien. 
+
+https://www.360-grad-achtsam.de/
+
+danke für das Telefonat!
+Hier noch ein paar Links:
+Mit dem krpano player lassen sich 360 grad panoramen in jedem Fall auch auf IOS unter Safari betrachten.
+Zum Beispiel dieses: http://panographer.de/testarea/stereo/
+Das sollte auch mit Unity möglich sein...?
+
+Außerdem hier noch ein paar Assets, die für 360 Grad Inhalte gedacht sind. aber die gibt es sicher ganz biele:
+https://assetstore.unity.com/packages/tools/video/vr-panorama-360-pro-renderer-35102
+https://assetstore.unity.com/packages/templates/systems/webvr-assets-109152
+
+
+####################
+
+30.07.2018
+
+1. Flo's Shader rein 
+2. Kleine Textlinks unter Hotspots
+3. Textmenü Einblendung mit Closebutton
