@@ -328,7 +328,7 @@ public class PanoControls : MonoBehaviour
 		if(useMouseControls)
 		{
 			// Registers the start of a mouse click
-			if(Event.current.type == EventType.MouseDown && Event.current.button == 1)
+			if(Event.current.type == EventType.MouseDown && Event.current.button == 0)
 			{
 				allowClickDrag = true ;
 				Event.current.Use() ;
@@ -341,7 +341,7 @@ public class PanoControls : MonoBehaviour
 			}	
 			
 			// Registers the end of a mouse drag or click
-			if(Event.current.type == EventType.MouseUp && Event.current.button == 1)
+			if(Event.current.type == EventType.MouseUp && Event.current.button == 0)
 			{
 				allowClickDrag = false ;
 				Event.current.Use() ;

@@ -257,7 +257,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 177101158}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0da47175ffd24c34a86d1c33d9dccd0, type: 3}
   m_Name: 
@@ -278,42 +278,42 @@ MonoBehaviour:
   panLeftRect:
     serializedVersion: 2
     x: 30
-    y: 635
+    y: 30
     width: 100
     height: 60
   panRightLabel: Pan Right
   panRightRect:
     serializedVersion: 2
     x: 130
-    y: 635
+    y: 30
     width: 100
     height: 60
   panUpLabel: Pan Up
   panUpRect:
     serializedVersion: 2
     x: 230
-    y: 635
+    y: 30
     width: 100
     height: 60
   panDownLabel: Pan Down
   panDownRect:
     serializedVersion: 2
     x: 330
-    y: 635
+    y: 30
     width: 100
     height: 60
   zoomInLabel: Zoom In
   zoomInRect:
     serializedVersion: 2
     x: 430
-    y: 635
+    y: 30
     width: 100
     height: 60
   zoomOutLabel: Zoom Out
   zoomOutRect:
     serializedVersion: 2
     x: 530
-    y: 635
+    y: 30
     width: 100
     height: 60
 --- !u!1001 &235004910
